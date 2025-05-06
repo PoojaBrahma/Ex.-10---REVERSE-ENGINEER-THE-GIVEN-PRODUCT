@@ -32,13 +32,15 @@
 
 ## Input:
 
-![empd camera](https://github.com/user-attachments/assets/4a2954dc-c856-4da9-9578-b61682f6cefc)
+![image](https://github.com/user-attachments/assets/fb1f326b-866b-476d-b912-08e4c06e107a)
 
 
 
 ### Output:
 
-![Screenshot 2025-05-05 212244](https://github.com/user-attachments/assets/ae253eac-7b97-4034-8f4e-4a941fab1d16)
+![image](https://github.com/user-attachments/assets/983badb5-535a-495b-baa5-3a95a97b6978)
+
+![image](https://github.com/user-attachments/assets/eb68672b-1363-462c-943c-cc9741f8ec6c)
 
 
 
